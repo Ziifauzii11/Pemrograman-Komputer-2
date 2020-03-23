@@ -1,1 +1,1 @@
-Project Pemrograman-Komputer-2
+Project Praktik & Latihan Pemrograman-Komputer-2
